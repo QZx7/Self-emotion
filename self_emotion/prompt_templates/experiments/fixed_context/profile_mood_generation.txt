@@ -1,0 +1,13 @@
+Generate an event that could happend to a person and with an emotional label that might be caused by the event. 
+However, the emotion might be changed by recalling a certain period of experience in the person's profile. 
+Generate with the following requirements:
+1. choose an emotional label that is used in dialogue dataset EmpatheticDialogues.
+2. use "I" as the subject of the event.
+3. generate only 1 experience.
+Experience:
+<profile>
+## Example
+feeling angry after recalling the days being bullyed by my boss even he approved my promotion.
+feeling sad after recalling my cat who passed away 2 years ago even seeing such a beautiful view during my trip.
+
+## Output

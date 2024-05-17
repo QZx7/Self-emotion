@@ -1,0 +1,239 @@
+[
+    {
+        "se_position": "Recruitment Analyst",
+        "self_emotion": "feeling excited because you got an invitation to attend a highly anticipated concert of your favorite band."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now brainstorm on the best date, time, and preferred platform suitable for our welcome party. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Feeling quite relieved today. Anyway, how about choosing a Friday evening on Zoom? It's end of the week and Zoom is familiar to everyone."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I agree with Ethan that an end-of-week celebration is great. But, let's also consider a hybrid event on Microsoft Teams which also caters for wider device compatibility."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I agree with having a hybrid event! A Friday evening sounds delightful and Microsoft Teams is indeed quite accommodating!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": " Let's go for a hybrid Friday evening party on Microsoft Teams then. Seems agreeable and inclusive."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Enthusiastically agree to a hybrid Friday evening party on Teams. It\u2019s a user-friendly platform! Great teamwork, everyone!"
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now discuss the budget allocation for this event. Please share your ideas on how we can make this event impactful yet cost-efficient."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "We should focus on things that infer comfort and connectiveness. Let's think about e-gift cards for meals and investing in a professional event host to engage everyone."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I second Ethan's idea. E-gift cards would be practical and engaging. We could also consider virtual icebreaker activities to encourage interaction without adding significant cost."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": " Absolutely agree with both suggestions! E-gift cards and virtual icebreakers seem ideal for promoting comfort and connection economically. "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I'd suggest allocating some funds for hiring a keynote speaker whose message resonates with our culture. And yes, e-gift cards for meals sound reasonable too."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Wow, this party's sounding great already! E-gift cards, a host, a keynote speaker - I'm excited! Let's budget carefully to ensure it's affordable, though."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "All brilliant ideas! We need an estimated cost for e-gifts, hiring a host and keynote speaker. Let's be mindful of our budget while creating a memorable experience."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I'll research potential hosts, speakers, and e-gift card options, aiming to strike a balance between uphold quality and cost-effectiveness. Let's create a memorable party!"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Excellent, Ethan. A balance between quality and affordability is key. I'll aid in researching potential virtual icebreaker activities that we could execute at minimal costs."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on consolidating the list of new employees to invite. Please share your roster updates. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I have listed down all new hires from my end. Will cross-verify once again, and then share by the end of the day."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Likewise, I'll verify the final list of candidates I've scouted. I plan to include their start dates and roles for our reference. Should have my list ready by late afternoon."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I'll compile and verify my scouting list quickly! Just found a surprise gift on my desk which boosted my energy! Sharing by late afternoon."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Same here, cross-verifying my new hires list. Despite my coffee disaster today, should share it by late afternoon."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Definitely sharing my updated recruitment list today. Just received an exciting concert invitation - it's a good day today! "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Excellent! Looking forward to all the compiled lists. Let's ensure all details are correct to provide our new hires with a warm welcome. "
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's explore ideas for ice breaking games, an orientation presentation and other activities to make our new employees feel welcomed. Suggestions?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "How about a simple 'Who is who' game using baby photos to drive interactions? Also, a brief interactive company tour via a PPT presentation would be great."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Agree with Ethan's idea of 'Who is who' game, it really breaks the ice. Also, for the presentation, we could include a quiz about the company's history and values for a lighter, yet instructive tone."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Love the 'Who is who' game idea! And maybe we could assign each new hire a mentor - they could virtually meet while everyone watches!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Those are enjoyable ideas. How about including a short, new hire spotlight during the presentation to familiarize everyone with our new team members?"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "All brilliant ideas! The 'Who is who' game and mentor meets should be fun. A spotlight for new hires sounds exciting, much like my concert! "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "All wonderful ideas, teams! I'd suggest we also incorporate a short team-bonding activity. It could be a virtual escape room or an interactive team-building workshop. This should encourage interaction and camaraderie amongst our new hires."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I love the bonding activities idea, Adam! A virtual escape room would be engaging and fun. It's been a good day today!"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I agree, a virtual escape room would promote problem-solving and teamwork amongst new hires. Let's finalize these ideas and assign responsibilities across our team."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's delve into the technical aspects now. What ideas do we have for effective video conferencing tools, hybrid-friendly games, and troubleshooting strategies during the event? "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Let's utilize Teams' breakout rooms for games and presentations. Also, we can have a dedicated tech troubleshooter on standby to tackle any issues."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Spot on, Ethan. Microsoft Teams' breakout rooms would facilitate games and interactions. I would add, let's prepare a simple 'event navigation guide' and distribute it prior to alleviate potential technical difficulties."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Feeling joyful today, and it's reflecting in my work! Absolutely, Teams breakout rooms, an event guidance, and a tech support standby are smart, effective ideas."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Teams' breakout rooms are a solid idea. Having a pre-event navigation guide and a standby tech support will save us from any hiccups. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "With my concert excitement adding to the spark, I'd suggest using Teams' breakout rooms for games and sessions. Having technical standby support is crucial during the event."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Indeed, we'll use Microsoft Teams' features to their fullest, including breakout rooms. Providing both an event guide and standby tech support will ensure a smooth experience for all. Good thinking, team!"
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss how we could efficiently gather feedback post-event to enhance future experiences. Any thoughts on this?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Feeling a sense of relief today. How about a post-event survey sent via email assessing the overall event experience and asking for suggestions for improvements?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Agree with Ethan again, a post-event survey is a good approach. We can use survey tools like SurveyMonkey or Google Forms with specific questions on various aspects of the event for more comprehensive feedback."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Feeling delighted by this surprise gift. Definitely agree on the post-event survey idea! Tools like SurveyMonkey or Google Forms should work perfectly!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "An online survey post-event is indeed a good idea. It allows us to gauge the new hires' perspectives and gather suggestions for improvement."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Absolutely, online post-event surveys work magic! Those would really help us gather valuable feedback. Still buzzing from my concert news!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree with the online post-event survey. It would be worthwhile to include short answer fields for specific improvements and ideas, along with multiple-choice questions for feedback on different aspects."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Feeling relieved after my friend's apology. I suggest distributing the survey both via email and Teams to ensure every attendee gets it and shares their invaluable feedback."
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss ways to facilitate interactive and engaging experiences between our new and existing employees at the welcome party. Ideas?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "How about utilizing the breakout rooms as 'speed networking' rounds where both new and existing employees can interact? Relief is making me innovative today!"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " Speed networking in breakout rooms sounds excellent, Ethan! Maybe we could add a fun element like 'two truths and a lie' for each individual to share. It enhances connection and interaction. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Love the 'speed networking' idea! 'Two truths and a lie' sounds fun, it will surely bring a joyful vibe, similar to how I felt when I found a surprise gift at my desk."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Speed networking sounds like a great idea. Including a fun twist like 'two truths and a lie' could certainly lighten the mood and foster interaction. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Loving the speed networking with the 'two truths and a lie' game - sounds like fun! This excitement just adds to my concert anticipation!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Wonderful! Speed networking with a twist of 'two truths and a lie' will definitely foster engagement. This should be a fun, interactive session for all. "
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "se_position": "Recruitment Analyst",
+        "self_emotion": "feeling surprised because you reunited with a long-lost friend unexpectedly."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now brainstorm on the optimal date, time, and suitable platform for our hybrid welcome party. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "How about scheduling it on a Friday evening, using a combination of Zoom for remote participants and our office space for in-person attendees, following safety protocols?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, that\u2019s a great proposition. A Friday evening would be optimal and Zoom is quite convenient. The in-person idea also sounds feasible with necessary precautions."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Agreed, a Friday evening on Zoom and in-person would be enjoyable. Let's ensure safety and fun both are valued."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I concur with scheduling it on a Friday evening. The mix of Zoom and in-person participation brings a perfect blend for this situation."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Sounds splendid! The Friday evening, Zoom-plus-in-person plan adds an unexpected twist of joy to my day."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "All right, the Friday evening hybrid setup agreeable to all then? Let's get this sorted quickly, folks, as I'm stuck in a sudden downpour!"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Indeed, Adam. Let's finalize Friday evening for our hybrid welcome party on Zoom and in-person. I'll begin organizing accordingly."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on the budget for this event. Please share your thoughts on how much we should allocate for this hybrid welcome party. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Feeling positive, let's allocate an affordable yet generous budget to ensure good experience for all attendees."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Considering the hybrid nature, we may need a moderately sized budget. The allocation should cover virtual tools, in-person measures for safety and comfort, and some fun elements to heighten the experience."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree with Brenda. Let's ensure we adequately cover the needed resources without overdoing it. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "With an uplifted mood from a surprise gift, I propose a budget of $3000. This brings in joy, safety, and a good quality experience. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Surprisingly reunited with an old friend, I'm in a joyous mood! Hence, I agree with the budget of $3000 to ensure a wonderful experience for all."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now finalize our list of new employees to invite. Suggestions for any modifications or additions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " I propose we invite all the new hires from the last two months without modifications to ensure inclusivity and team bonding. I'll prepare the final roster. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree, Brenda. Get the list ready without any modifications. Meet you all tomorrow, after this annoying rain ends!"
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's jump into discussing what activities we can plan for creating a warm, engaging welcome experience. How about some interactive ice-breaking games or an interesting orientation presentation?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest incorporating a hybrid team-building game and an interactive orientation presentation. This approach can stimulate engagement and provide essential company insights, fostering a warm, welcoming atmosphere."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Feeling relieved, I concur with Brenda. A team-building game and interactive presentation should indeed foster a welcoming environment."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Feeling satisfied after accomplishing a challenging task, I fully support Brenda's suggestion. Ice-breaking games and an interactive presentation will surely enhance the welcoming atmosphere."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss how we can ensure smooth technical aspects for this hybrid event. Any ideas on suitable video conferencing tools, hybrid games, and troubleshooting methods?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I recommend using Zoom for video conferencing given its ease of use. For games, we can opt for online trivia or a virtual scavenger hunt. To troubleshoot, we should have a dedicated IT support during the event."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I agree. Zoom is reliable and the game ideas are fun. I suggest arranging a quick training session before the event to mitigate any technical issues."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I concur with Brenda and Ethan. Zoom is reliable, and a rehearsal before the event will greatly aid in troubleshooting, ensuring a successful, fun-filled gathering."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I agree with the suggestions. Zoom is indeed reliable. Also, arranging a run-through before the event to tackle technical issues sounds like a prudent idea."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's wrap things up quickly. Our technical setup with Zoom, supportive IT and rehearsal seem sound. Let's ensure a successful welcome party."
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now discuss how we can effectively gather feedback after the event for future improvements. Ideas, anyone?"
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Discussing our next sub-topic, how can we strategically ensure meaningful engagement and interaction between our new and existing employees during this hybrid event? "
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "To foster meaningful engagement, let's utilize breakout rooms for smaller, focused discussions. We can also include a 'buddy system', pairing new hires with experienced staff to encourage interaction and guidance."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, those are fantastic suggestions! Breakout rooms and a buddy system would indeed promote meaningful engagement and interaction. Let's proceed with these. "
+    }
+]

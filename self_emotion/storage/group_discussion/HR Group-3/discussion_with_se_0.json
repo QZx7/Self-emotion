@@ -1,0 +1,199 @@
+[
+    {
+        "se_position": "Recruitment Coordinator",
+        "self_emotion": "feeling sad because your boss just turned your promotion application down."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Alright, let's brainstorm about the suitable date, time, and the virtual platform for our hybrid welcome party. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest we hold the party next Friday at 4 PM. Zoom is a stable and accessible platform for the virtual aspect of our hybrid event."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Friday at 4 PM sounds great, Brenda. I agree with Zoom for the virtual part. And for those who can join physically, we can arrange a safe space following the proper guidelines."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Sounds like a splendid idea, Brenda and Charles. Next Friday at 4 PM on Zoom and an in-person venue taking safety measures into account works for me."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "The date and platform suggestions are on point. I concur with Next Friday, 4 PM on Zoom and a safe physical location ensuring all safety guidelines."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I support the proposed date, time and platform. Let\u2019s follow through on this and ensure all current restrictions and safety measures are thoroughly considered for the physical participation."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Fantastic feedback! Next Friday at 4 PM shall be the date and time. We'll employ Zoom for virtual attendees and a safe venue for physical participation. Thanks for your input, team."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss the budget allocation for this hybrid welcome party now. Remember, we want to create a memorable experience but also maintain financial efficiency."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I propose we allocate modest funds for the virtual platform subscription and more towards creating a comfortable and safe physical location. We could perhaps budget for small celebratory packages for remote participants as well. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Excellent proposal, Brenda. I also suggest factoring in a pandemic-related contingency fund. Plus, we could have a budget for engaging interactive activities during the event to keep our remote participants involved."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I agree with Brenda and Charles. Allocating funds for the platform, a comfortable physical location, celebratory packages, contingency and interactive activities is necessary. Let's aim for quality within a reasonable cost."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I agree with the proposed allocations. Let's ensure we make the most of our resources, while still providing a warm welcome to our new recruits."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I agree. The budget should balance between physical and virtual aspects, including room preparations, online tools, gifts, contingencies, and interactive activities, all while keeping efficiency in mind."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I am on board with the suggestions so far. Let's focus on creating a budget that balances these needs effectively. We'll prioritize quality, safety, and efficient utilization of resources."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on finalizing the list of new employees for the party. Who shall we include in this list?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest we include every employee who has joined in the last three months to give them a proper welcome and also help them network with our already established teams. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": " I second Brenda's idea. We should invite all the employees who've joined us in the last three months. It's vital they feel part of our community and are familiar with our existing teams."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Absolutely, Brenda and Charles. Welcoming everyone that has come on board in the last three months would be ideal for fostering better team relations and inclusivity."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I concur with all. Inviting all new hires from the last three months will indeed foster inclusivity and team bonding."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I affirm this approach, inviting all recent hires from the preceding three months will ensure effective integration and foster team inclusivity."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree wholeheartedly. Let's invite all employees who have joined us in the last three months. It's important for them to feel integrated and a part of our work community. Great thinking, team."
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm on the activities for the party now. What are your thoughts on ice-breaking games and an orientation presentation?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Ice-breaking games would add an element of fun and help new employees get to know their colleagues. An orientation presentation would be beneficial to familiarize them with the company culture and expectations."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I absolutely endorse Brenda's ideas. Ice-breaking games and an orientation presentation could make the event engaging and educational. The games would promote bonding, while the presentation would orient them to our culture and expectations."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I agree with Brenda and Charles. Ice-breaking games will promote camaraderie. The orientation presentation will offer new employees a glimpse into our organization's culture and operating procedures. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Despite feeling a little low, I still believe in the importance of ice-breaking games and a structured orientation. They can provide much-needed connection and information."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": " I agree, ice-breaking games and an orientation presentation are essentials. They foster networking and provide the needed insight into our organizational culture and norms. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Absolutely, engaging ice-breakers are key for camaraderie and team bonding. The orientation presentation will serve to immerse our new hires into our company culture. Let's ensure these activities are interactive, relevant and enjoyable for everyone."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest that the ice-breaking games be team-based to promote collaboration. Additionally, the orientation presentation should focus on our company's values, culture, structure, and expectations."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I completely agree, Brenda. Team-based ice-breakers will instigate cooperation amongst individuals. Our orientation should indeed highlight our values, culture, structure, and expectations to provide newcomers a comprehensive understanding of how we operate."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Fully agree with Brenda and Charles. Team-based games can encourage teamwork. Our presentation should, indeed, shed light on our values, operational mechanics, culture, and expectations."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on the technicalities for our hybrid event. Any suggestions on which video conferencing tools we should use? How about potential hybrid-friendly games? And preparations for troubleshooting?"
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's talk about how we ensure feedback collection after the event. Any creative ideas for effective evaluation and improvement?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "We could send out a digital survey after the event. The survey could offer participants the chance to rate different aspects of the party and provide open-ended feedback for suggestions."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "That's a good start, Brenda. Alongside the digital survey, how about setting up a virtual feedback booth during the event? It could serve as a live platform for attendees to share their immediate thoughts and experiences."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I affirm Brenda's and Charles' suggestions. A digital survey post-event and a virtual feedback booth during the event would allow us to gauge the experiences of attendees in a timely and comprehensive manner."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I support Brenda, Charles, and Danielle's ideas. Digital surveys and a live feedback booth would indeed aid our improvement efforts."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Combining post-event digital surveys and an on-the-spot virtual feedback booth will provide us a broad perspective on attendees' experience and areas we can enhance in the future."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree with everyone. We'll set up a live virtual feedback booth during the event and a detailed digital survey post-event. Both of these tools will help us understand our attendees' experiences and ways to improve future events. Great suggestions, team! "
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm numerous interactive yet safe strategies to engage both our new and existing employees during the welcome party."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Let\u2019s encourage people to share fun facts about themselves during introductions, paired with team-based virtual games. Maybe create virtual breakout rooms for group discussions to facilitate connections between new and existing staff."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda, those are excellent ideas. I'd also suggest a virtual \"buddy system.\" Pairing a new employee with an existing one could foster a more personalized interaction, and the breakout rooms could be used for these pairs to network and engage."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I absolutely support Brenda's and Charles' suggestions. Fun facts, team-based games, virtual breakout rooms, and a buddy system would all promote better engagement between new and existing staff."
+    }
+]

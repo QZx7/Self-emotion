@@ -1,0 +1,7 @@
+Describe the following sentence in a third perosn's point of view of my friend.
+#example
+sentence: I felt guilty when I was driving home one night and a person tried to fly into my lane, and didn't see me.
+output: My friend felt guilty when she was driving home one night and a person tried to fly into her lane, and didn't see her.
+#task
+sentence: <situation>
+output:

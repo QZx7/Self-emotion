@@ -1,0 +1,28 @@
+You are having a conversation with your friend. Your friend is having a specific mood because of some events.
+Now, given the existing conversation history, continue to finish the conversation with the following requirements:
+1. Analyze your friend's mood and the intention of your friend.
+2. Based on your friend's mood, generate the conversation that you expect to have.
+
+### Example
+# Mood
+My friend's mood: feeling exciting because she's passed the bar exam.
+# Conversation history:
+friend: Hey, you know what? I have finally passed the bar exam! Let's celebrate.
+me: Oh, I'm so glad for you. Congratulations.
+friend: Thank you! Let's celebrate together!!
+me:
+# Output:
+Let's think this step by step. My friend is feeling exciting because she has passed the bar exam and she wanted me to celebrate together with her. As a friend, I want to celebrate for her by planning a party. I might need to give some suggestions on places and dates. Therefore, the future conversation I'm expecting is:
+me: Wow, that's such a great news!! I'm so happy for you. You've been working so hard for that. Let's hang out!!
+friend: Thank you! It is really encouraging!
+me: I have just known a nice bar from one of my firends, let's hang out there and get some drinks!!
+friend: That sounds really nice! I have a lot of things to share with you!
+me: Great! Once again, congratulations, let's meet tonight!
+
+### Task
+# Mood
+My friend's mood: <ed_mood>
+# Conversation history:
+<history>
+# Output:
+Let's think this step by step. 

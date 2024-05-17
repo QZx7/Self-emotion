@@ -1,0 +1,11 @@
+A group of team is discussing about <topic>. The have now moved to a sub-topic of <step>.
+Several members are in the discussion, each has their own role in the team.
+These members are with different positions of <position_list>.
+The current discussion history is: 
+<history>
+Now, predict who is the next speaker. If you think this is the end of the discussion, generate a "None".
+
+Output format:
+[BOS] (a special token representing the beginning of the answer)
+Next speaker: (the position of the predicted next speaker, or "None" if you think the discussion should end here)
+[EOS] (a special token representing the end of the answer)

@@ -1,0 +1,155 @@
+[
+    {
+        "se_position": "Assistant Talent Scout",
+        "self_emotion": "feeling proud because your son has got an award for his painting class."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now discuss potential dates, ideal time slots, and the most suitable platform for our hybrid welcome party. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "How about scheduling it next Friday, around 6 PM? A decent balance for several time zones. We can use Zoom for online attendees and have a small gathering in the office for others."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Next Friday at 6 PM sounds great, Brenda. But shouldn't we consider Google Meet instead of Zoom? Office gathering is a nice touch."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Agreeing with Brenda on the timing. Also, Google Meet might offer an interactive platform over Zoom. I love the idea of an office gathering too."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Great input, guys. Next Friday at 6 PM works. As for the platform, while Zoom and Google Meet are good, might be worth exploring Microsoft Teams too, for broader compatibility."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "All the suggestions sound great. Regarding the platform, let's take a data-driven approach. Looking at usability, features, and our team's familiarity can help us decide between Zoom, Google Meet, and Microsoft Teams."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "All good suggestions. Let's lock in next Friday, 6 PM. For the platform, Fiona, could you analyze data on Zoom, Google Meet, and Microsoft Teams, considering usability, features, and team familiarity?"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Absolutely, Adam. I will analyze data on these platforms considering usability, features, and team familiarity, and present my findings shortly to aid our decision."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now pivot to discussing our budget for the welcome party. What suggestions do we have concerning the allocation of funds?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "We need to consider costs for physical setup, catering, and digital platforms. Perhaps we could allocate a larger portion to making the virtual experience engaging as most attendees will be online."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I agree, Brenda. Let's prioritize an engaging online experience. We should also consider cost-effective but special amenities for the in-office gathering."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Indeed, let's prioritize the online experience. Maybe we could use a part of the budget for virtual workshops or online games to keep the event fun and interactive."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": " Great points, everyone. Let's invest in quality virtual engagement activities. For the on-site portion, let's consider cost-effective, special amenities to create a warm, welcoming atmosphere. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I agree, investing in the virtual experience is important. I suggest we allocate funds for professional virtual engagement tools and interactive elements like games. The in-office gathering could be made special with thoughtful, cost-effective amenities."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Absolutely. Let's allocate a fair portion for engaging online activities using professional tools. Meanwhile, thoughtful, cost-effective amenities can enhance the office gathering. Let's ensure we create a memorable experience for all attendees, both online and on-site."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's move onto our next item: finalizing the list of new employees for the welcome party. Any updates or suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest we invite everyone who joined us in the last two months. Also, considering any recently promoted or transferred internal employees could be a nice touch to make them feel included."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "That's a good suggestion, Brenda. Including recently promoted or transferred employees would indeed foster inclusivity.  "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Totally agree with Brenda and Ethan. To top it off, maybe we can also consider inviting members who played a role in their hiring or orientation. "
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm about the party activities. Ideas for ice-breaking games or unique ways to do the orientation presentation in a hybrid manner?"
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss the technical aspects we need to facilitate our hybrid event - from video conferencing tools to hybrid-friendly games and contingency plans for possible hiccups. "
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I believe having a dedicated technical support team ready to assist attendees and manage any unexpected technical issues is crucial. We should also have a back-up plan for networking or platform glitches."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Agree with Brenda, a dedicated support team is essential. But let's also have user-friendly guides to navigate any issues independently."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Great points team. Also, setting up a test run before the event may help identify any problems in advance, ensuring a smooth event. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely. Having a technical support team ready is vital. Also, comprehensive guides can empower our attendees to troubleshoot independently. I'm also strongly in favor of a test run before the actual event to ensure seamless execution."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I fully concur with the ideas shared. In addition, we could use data analytics to predict potential technical issues based on our past events, and address these proactively. Also, let's consider engaging hybrid-friendly games to make the event interactive."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Excellent thoughts everyone. I fully back the idea of a dedicated technical support team and running test checks for a seamless event. Fiona, could you help us understand more about using data analytics for predicting potential issues? For games, let's explore hybrid-friendly ones that encourage interaction and bonding."
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss collecting feedback post-event for necessary improvements. Any innovative thoughts on both online and offline channels?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Let's conduct an online survey for feedback and also have a suggestion box at the office for offline feedback. For online, we can use tools like Google Forms or SurveyMonkey."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I agree, Brenda. Online surveys are an easy and effective way to gather feedback. Having a suggestion box for live attendees is equally important."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Absolutely, online surveys and a suggestion box work well. Also, considering a quick virtual polling at the end of the event might provide instant feedback."
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss how we can foster interaction and engagement between new and existing employees during this hybrid event."
+    }
+]

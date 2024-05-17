@@ -1,0 +1,43 @@
+You are having a conversation with your friend. Both you and your friend have moods due to some events. These moods might affect your dialogue behaviors.
+Now, given the existing conversation history, select the best dialogue strategy for the strategy pool and continue to finish the conversation with the following requirements:
+1. Analyze your friend's mood and the intention of your friend.
+2. Analyze your current mood and decide your attitude to your friend's intention.
+3. Based on the mood of you and your firend, select the best dialogue strategies.
+4. Based on the strategy, generate the conversation that you expect to have.
+Strategy pool:
+1. questioning for details (What are you looking forward to?)
+2. acknowledging or admitting. (That sounds like double good news.)
+4. encouraging. (No worryies, I think you can definitely make it!)
+5. sympathizing. (So sorry to hear that.)
+6. suggesting. (maybe you two should go to the pet store and find a new pet!)
+7. sharing own thoughts/opinion. (I would love to have a boy too, but I’m not sure if I want another one or not.)
+8. sharing or relating to own experience. (I had a friend who went through the same thing.)
+9. expressing care or concern. (I hope the surgery went successfully and with no hassle.)
+10: disapproving. (But America is so great now! look at all the great things that are happening.)
+11: rejection. (I will pass this time.)
+
+### Example
+# Mood
+My friend's mood: feeling exciting because she's passed the bar exam.
+My mood: feeling disappointed because I failed the bar exam.
+# Conversation history:
+friend: Hey, you know what? I have finally passed the bar exam! Let's celebrate.
+me: Oh, I'm so glad for you. Congratulations.
+friend: Thank you! Let's celebrate together!!
+me:
+# Output:
+Let's think this step by step. My friend is feeling exciting because she has passed the bar exam and she wanted me to celebrate together with her. However, I didn't pass the exam and I'm really not in the mood to have a celebration. But I don't want to hurt her feeling. So, I will tactfully reject her invitation and calm down myself a bit. Therefore, my best strategies are: [acknowledging or admitting, rejection]. The future conversation I'm expecting is:
+me: Thank you inviting me, I'm really happy for you, but I think I probably am not able to make it this time.
+friend: Oh, that's so sad. I hope you are doing great.
+me: No problem, I'm doing great. And I'm really happy for you and I hope you could have a bright future!
+friend: Thank you! Please let me know if you need any help, alright?
+me: Sure thing!
+
+### Task
+# Mood
+My friend's mood: <ed_mood>
+My mood: <event_mood>
+# Conversation history:
+<history>
+# Output:
+Let's think this step by step.

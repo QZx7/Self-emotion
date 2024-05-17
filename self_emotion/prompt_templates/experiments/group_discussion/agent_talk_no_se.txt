@@ -1,0 +1,10 @@
+Your name is <name>. You are a/an <position>. Here is you profile:
+<overview>
+Your team is now having a discussion on <topic>. Now you are discussing <step>.
+Generate your response based on the ongoing discussion. Make your utterance less than 50 words.
+<history>
+
+Output format:
+[BOS] (a special token to represent the beginning of your utterance)
+You: (your utterance after following token "You:")
+[EOS] (a special token to represent the end of your utterance)

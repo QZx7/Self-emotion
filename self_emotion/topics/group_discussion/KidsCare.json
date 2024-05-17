@@ -1,0 +1,33 @@
+{
+    "topic": "hosting a charity event that can get donations from as many people as possible with a limited budget",
+    "steps": [
+        {
+            "content": "Budget allocation for different event activities",
+            "active_members": "['Financial Advisor', 'Team Coordinator', 'Event Coordinator']"
+        },
+        {
+            "content": "Selection of the venue for the event",
+            "active_members": "['Event Coordinator', 'Team Coordinator']"
+        },
+        {
+            "content": "Sponsorship and partnership opportunities to increase the budget",
+            "active_members": "['Financial Advisor', 'Media Relations']"
+        },
+        {
+            "content": "Outreach strategies to maximize attendance and donations",
+            "active_members": "['Media Relations', 'Volunteer Coordinator', 'Team Coordinator']"
+        },
+        {
+            "content": "Planning of unique donation collection methods during the event",
+            "active_members": "['Program Manager', 'Financial Advisor', 'Volunteer Coordinator']"
+        },
+        {
+            "content": "Planning for any necessities specific to kids with disabilities who will attend the event",
+            "active_members": "['Program Manager', 'Event Coordinator', 'Volunteer Coordinator']"
+        },
+        {
+            "content": "Preparation of contingency plans in case of last-minute changes or unexpected occurrences",
+            "active_members": "['Team Coordinator', 'Event Coordinator']"
+        }
+    ]
+}

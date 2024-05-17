@@ -1,0 +1,10 @@
+<content> which has <number> people. Each member has their own role, now generate the profiles of all six members.
+
+Output format:
+Person 1:
+[BOF] (a special token to represent the beginning of a profile)
+Name: (name of the person)
+Role: (select from ["leader", "member"])
+Position: (the position of this person in the team)
+Overview: (a short background introduction of this person)
+[EOF] (a special token to represent the end of a profile)

@@ -1,0 +1,272 @@
+[
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now discuss about setting our travel dates for the Italy trip, considering our budget constraints. Any suggestions?"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Given our budget, we should consider off-peak season dates. Possibly mid-September to October? Prices for flights and hotels tend to drop then. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Jennifer makes a good point. Traveling off-peak can save us significantly. Also, let's not forget to factor in potential savings from early bird bookings."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Absolutely agree with Jennifer and Andrew. We can maximize savings if we book flights early and choose off-peak dates. I can use my network connections to secure additional discounts."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I back Jennifer's and Andrew's suggestions. Mid-September to October seems ideal. I can ensure SOPs for online transactions are followed for safe early bird bookings and help with tech issues during the trip."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I concur with Jennifer and Andrew's suggestions. Off-peak and early bird bookings will indeed make a cost-efficient itinerary. I'll ensure our travel plans are effectively communicated within and outside our alumni network. Mid-September to October sounds manageable."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Thank you for the inputs, everyone. Mid-September to October seems agreed upon. Let's now focus on securing early bird bookings to maximize our savings."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss the Italian cities we should visit and stay within our $1500 budget. Thoughts?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Given our budget, visiting cities like Rome, Florence, and Venice should be feasible. We could also consider cheaper yet culturally rich options like Bologna or Pisa. I'll further research accommodation and local travel costs. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "I agree with Andrew. Rome, Florence, and Venice offer a rich taste of Italy's cultural heritage. Pisa and Bologna could enrich our experience, while aiding our budget. Also, let's consider group discount options for local attractions."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I think Andrew's idea is perfect. Visiting cost-effective cities like Bologna or Pisa alongside Rome, Florence, and Venice seems a great balance. I'll network for travel deals in these cities. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I concur with Andrew. Rome, Florence, and Venice are must-see cities. Additionally, we can leverage tech to keep track of budgeted expenses and ensure we get the best deals. Bologna and Pisa are great budget-friendly options as well. "
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I completely agree with Andrew, Rome, Florence, Venice, Bologna, and Pisa are cost-effective and culturally rich destinations. I'll ensure the finalized itinerary is properly disseminated to all members and relevant parties."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " I appreciate your ideas, everyone. Rome, Florence, Venice, Bologna, and Pisa sound perfect. Let's focus on the planning and seek best deals for these cities, keeping our budget in mind. "
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's focus on how we can save on accommodation during our Italy trip. Any ideas for budget-friendly options like shared rooms or inexpensive hotels?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "To save on accommodation, we could consider options like budget hotels, shared apartments or even hostels. I suggest splitting into groups based on comfort levels and sharing rooms. Booking accommodations in advance could also get us better deals."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's suggestions are fantastic. We could also look into Airbnb options. It usually has a broad range of offerings at different price points, and can be a cost-effective alternative to hotels, especially for shared accommodation. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " Thumbs up for Andrew and Jennifer's ideas. Shared accommodations and budget hotels are smart decisions. Also, I've partnerships with some hotel chains, I can negotiate further discounts for us. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I support Andrew's and Jennifer's suggestions. Shared accommodations and budgetary hotels are cost-effective. To enhance functionality, I can make a web app that allows us to virtually pick roommates and rooms, plus compare hotel and Airbnb prices."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I concur with the suggestions. Securing budget hotels, shared apartments, or hostels can greatly help us keep within our budget. Andrew's idea of splitting into groups for shared accommodation seems feasible. I'll disseminate any accommodation decisions smoothly to the group."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " Great suggestions everyone! Shared accommodations would indeed be a viable solution. Depending on the group's comfort level, we can consider shared apartments, budget hotels, or hostels. I also welcome the creation of a web app to compare prices and choose roommates effectively. "
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's talk about meals. Considering our budget, should we plan to eat out daily, or explore cooking some meals ourselves in Italy?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Eating out every meal can be expensive. We could consider apartments or hostels with kitchenettes to prepare some meals, buying groceries from local markets. Still, do let's set aside a budget for experiencing Italy's culinary scene. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew, I think that's a balance we need. We can prepare simple meals in our accommodations, while also exploring Italy's exquisite cuisine occasionally. I can look into arranging group cooking classes for a local experience."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I concur with Andrew and Jennifer. Mixing self-cooked meals and dining out ensures budget efficiency while enjoying Italy's culinary culture. My network could assist in finding affordable, authentically local restaurants. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I support the idea of balancing self-cooked meals with dining out. It's cost-saving and gives us a taste of Italy's food culture. I'll look into a mobile app that offers good local deals and helps track group meal expenses efficiently."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I agree with the balance of self-cooked meals and dining out. This would allow us to experience Italy's culinary culture while staying within budget. I will make sure this meal plan is properly communicated to all members."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " Well done everyone, combining self-cooked meals and dining out seems the most balanced approach. We can experience Italy's cuisine while still managing costs. Let's arrange for accommodations with kitchen facilities accordingly. "
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's explore our transport options in Italy. What do you think is more efficient and economical between using public transport, renting a car, or hiring taxis?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "I suggest using public transport. It's economical and efficient in Italy. Car rental might inflate costs due to fuel and parking while taxis would not be budget-friendly for longer distances. I will research more on rail and bus passes."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's right. Public transportation is often the most cost-effective for group travel in Italy, plus it's a great cultural experience. It's user-friendly and gives us the freedom to explore. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I echo Andrew's and Jennifer's thoughts. Public transportation in Italy is not only cost-effective, but also reliable. And in urban areas, we could easily get around on foot. I'll inquire about group discounts for public transportation from my contacts."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with Andrew and Jennifer. Opting for public transportation could be not only cost-effective but also a great way to immerse ourselves in local culture. I'll set up a travel planner app to coordinate our travel schedules."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I concur with Andrew, Jennifer, and Emily. Using public transportation is indeed cost-effective and gives us a true taste of local life. I will make sure this decision is effectively communicated to our alumni members."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Appreciate your inputs team. We'll opt for public transport as it's cost-effective and a great way to experience local life. Let's ensure our accommodations are close to public transport networks. Jacob, your idea of a travel planner app is well-received. "
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss potential flight options for our trip to Italy keeping in mind our budget limit. Direct or layover flights? Are there arrival-free days? And what are the cheapest days to fly?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Considering our budget, layover flights usually are cheaper than direct ones. Midweek flights can also be less expensive. Moreover, flying in and out of the same airport could save us some money. I'll research more and get back to you on specific detail of the cheapest options. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew makes a good point. Layover and midweek flights typically do offer savings. It could be beneficial to consider these options. Also, group bookings sometimes attract discounts, so I'll check that. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " I agree with Andrew and Jennifer, layover and midweek flights may help us save quickly. I will use my networking contacts to find the best discounted group bookings. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with Andrew's suggestion. Layover and midweek flights can save us significantly. I can develop a script to compare different flight options, considering layover flights, midweek departure, round-trip deals, and group booking discounts. "
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's start planning our daily budget for activities, meals, transportation, and souvenirs. Remember, our goal is to stay within our $1500 limit. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": " Considering our $1500 budget, we should aim for approximately $70-$80 per day for our basic needs. This will cover public transportation, food prepared ourselves, and budget-friendly accommodation. We should also allot an occasional dining-out budget and a modest amount for activities and souvenirs. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew's estimate seems practical. Allocating $70-$80 per day to cover basic necessities like food, accommodation, and transport could work. We can set aside an occasional dining-out budget, and keep a modest sum for activities and entrainment and buying souvenirs."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " Andrew's estimate is practical. Keeping a budget of $70-$80 per day will help us manage expenses efficiently. I'll reach out to my contacts to find affordable local activities and souvenir spots. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with Andrew's estimate. A $70-$80 daily spending limit can cover basic necessities, including occasional treats and souvenirs. I can work on an app to help track our daily spending, ensuring we remain within our budget limit. "
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": " Andrew's budget estimate is practical. Sticking to a $70-$80 daily spending limit will help us sustain our budget throughout the trip. I will ensure everyone is informed and understands this budgeting plan. "
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " Thank you for your suggestions, team. Agree on a daily spending limit of $70-$80 covering our basic necessities, with an allowance for occasional dining-out, activities, and souvenirs. Let's use Jacob's app to track our spending to ensure adherence to the budget. "
+    },
+    {
+        "step_id": 8
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Now, let's discuss emergency provisions and how much we should allocate for a contingency fund within our budget. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "I recommend setting aside at least 10% of our budget, around $150 each, for a contingency fund. This will ensure we have emergency coverage without significantly impacting our overall budget. It's important to be prepared for unexpected expenses."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's right. Allocating 10% of our budget to a contingency fund provides us with a safety net. Also, it'd be good to have all our numbers and emergency contacts consolidated in case of an incident. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I absolutely agree with Andrew. Allocating around $150 for unexpected expenses is practical. I can use my network contacts to source and arrange for emergency services if needed. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I concur with Andrew. Allocating about $150 for unexpected situations makes sense. I will update our travel app to include emergency contacts and allow easy tracking of the contingency fund. This way, we stay prepared for any tech-related emergencies too."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I agree with Andrew's suggestion on setting aside $150 each for a contingency fund. It is essential to have a dedicated emergency provision. I will ensure that all our members are acquainted with this safety net."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Thank you everyone, your input is valuable. I concur with Andrew on setting aside $150 each as a contingency fund. Jacob, please add emergency features to our app. This fund will assure we're prepared for unexpected emergencies. "
+    },
+    {
+        "step_id": 9
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss about what to pack considering the weather forecast for our travel dates in Italy. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": " Considering our travel dates, mid-September to October, the weather in Italy is usually mild with occasional rainfall. I suggest packing both light and warm clothes, and don't forget comfortable footwear for walking. An umbrella or raincoat might be handy too. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's advice is spot on. Layering is key for the unpredictable weather during our travel dates. Also, consider packing umbrella or rain jackets, comfortable walking shoes, and don't forget the essentials likes chargers and travel adaptors. Remember, packing light can help us avoid excess baggage fees. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " Emily Rogers (Networking Head): Andrew and Jennifer have nailed the packing list. Let's remember to pack light, anticipate varied weather, and prioritize comfort. Relying on my connections, I can provide details about what's typically needed in Italy during these months. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with Andrew and Jennifer. Given the time of our travel, we should pack light clothing and warm layers for cooler evenings. An umbrella or raincoat and comfortable shoes are essentials too. Tech-wise, don't forget to bring your necessary chargers and adapters."
+    },
+    {
+        "step_id": 10
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss the division of responsibilities for planning and during our Italy trip. Who wants to tackle what?"
+    }
+]

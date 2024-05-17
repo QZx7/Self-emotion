@@ -1,0 +1,296 @@
+[
+    {
+        "se_position": "Head of the group",
+        "self_emotion": "feeling irritated because your spilled coffee on a new shirt while rushing out the door."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now discuss potential travel dates for our trip to Italy. Keeping our budget in mind, when do you think is the ideal time to go?"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Off-season travel could fit our budget. Late Autumn or early Spring would be less crowded and more affordable. How about we consider late November or early March? "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Jennifer's proposal makes financial sense. Off-season tickets and accommodations are generally cheaper. So, let's indeed look at late November or early March for our trip."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I agree with Jennifer and Andrew. Late November and early March seem good as we might have a better chance of leveraging my networks for accommodation deals during the off-peak season."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I second that. Also considering our group responsibilities, late November and early March work perfectly as they are less hectic periods. Consequently, these dates align with both our budget and work commitments."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "Absolutely, off-season travel offers considerable savings. Late November and early March are indeed good options. Let's finalize these as our potential travel periods."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Given our budget, let's explore and discuss our potential city destinations in Italy to maximize our experience."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "In keeping with our budget, I suggest we focus on cities like Rome and Florence for their historical and cultural significance. Also, consider smaller, budget-friendly towns like Siena and Lucca. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " I support Andrew's suggestions. We could club it with day trips to nearby towns like Pisa from Florence or Napels and Pompeii from Rome. It's economically efficient! "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Great suggestions, Andrew and Jennifer. Rome and Florence, paired with smaller towns and day trips, sounds plausible from a budget and experience perspective."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I concur with the suggestions. Rome, Florence and the inclusion of day trips to the smaller towns could provide us with a well-rounded and budget-conscious experience in Italy."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I echo the consensus. Covering significant cities like Rome, Florence and including budget-friendly, culturally rich towns and day trips in our itinerary presents a balanced, budgeted approach. "
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Agree with everyone on the itinerary. It sounds great. Let's start planning the details of our trip."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "On with accommodation discussion, how can we economize, considering sharing rooms or staying in budget hotels or apartments?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "To save on accommodation, we should consider booking apartments instead of hotels, giving us added flexibility. Also, sharing rooms, where possible, could substantially cut down our individual expenses. Let's also explore my contacts for discounted rates."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "I agree with Andrew. Apartments offer better value for groups and sharing rooms will definitely lower the cost. Additionally, we could consider hostels where private rooms are usually cheaper than hotels."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I support Andrew and Jennifer's suggestions too--opting for apartments and considering room sharing should definitely help us stick to our budget. Let me reach out to my network and see what deals we can get."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "Indeed, apartments and room-sharing options seem to be the most budget-friendly. I'd also recommend we consider using hotel or apartment booking platforms that offer group discounts and comparing prices beforehand."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I support the apartment and room-sharing ideas. Additionally, let's leverage early booking deals and compare various platforms for best prices to ensure maximum savings on accommodation."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Your suggestions make sense. I suggest frequent check-ins on these deals to secure the best prices. Now, let's move on to the next topic."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "To save on accommodation, we should consider booking apartments instead of hotels, giving us added flexibility. Also, sharing rooms, where possible, could substantially cut down our individual expenses. Let's also explore my contacts for discounted rates."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "I agree with Andrew. Apartments offer better value for groups and sharing rooms will definitely lower the cost. Additionally, we could consider hostels where private rooms are usually cheaper than hotels."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I support Andrew and Jennifer's suggestions too--opting for apartments and considering room sharing should definitely help us stick to our budget. Let me reach out to my network and see what deals we can get."
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Now let's discuss our meal options in Italy. Should we allocate budget to dine out every day, or consider preparing some meals ourselves?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": " To manage meal costs, we can adopt a mixed approach. Enjoy Italian cuisine by dining out selectively, and prepare simple meals using local ingredients for the rest. This way, we stay within budget and also taste local delicacies. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's idea is perfect. We can cook breakfast and simple dinners while rewarding ourselves with Italian lunches for a unique experience and cost efficiency. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "That's a balanced approach, Andrew and Jennifer. We can surely try out Italy's famous cuisine and also cook at times. I'll explore if my contacts have any restaurant recommendations or deals."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with Andrew and Jennifer's approach. Eating out selectively and preparing some meals ourselves will not only give us a taste of authentic Italian cuisine but also keep our spending in check."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "Andrew and Jennifer's mixed meal approach sounds optimal. It balances experiencing Italy's food culture while keeping our budget in check. We should go ahead with planning around this idea."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Spilt coffee on my shirt, but let's move on. Regarding meals, I think we all agree on a mixed approach - dining out and self-preparation. Is everyone okay with this plan?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Yes, Samuel. I believe the mixed meal approach will work best in keeping us within budget while also providing an opportunity to experience authentic Italian cuisine."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Absolutely, Samuel. The mixed meal approach is perfect. It preserves the excitement of experiencing local Italian cuisine, yet keeps us within budget. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " Absolutely, Samuel. I'm on board with the mixed approach for meals. It offers us a taste of Italy while minding our budget. "
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss our in-country transportation options in Italy; we can evaluate public transport, car rental, or taxi services based on our budget constraints."
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss our flight options to Italy. We need to decide between direct or layover flights, and figure out the cheapest days to fly. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Based on cost efficiency, direct flights are typically more expensive. Opting for layover flights with flexible dates could save us significant funds. Tuesday and Wednesday are generally cheaper days to fly, so we should consider those. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Jennifer Beckins (Event Coordinator): Let's look for layover flights and prioritize flying on Tuesday or Wednesday. These options could substantially cut our flight costs. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " I completely agree, Andrew and Jennifer. Someone from my network might help us with discounted layover flights. Tuesday and Wednesday could work as cheaper options indeed. "
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's start discussing our daily spending budget. We need to factor in costs for activities, transport, meals, and souvenirs. Thoughts? "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Given our budget, I'd suggest allocating about $40 daily for meals, $20 for transportation, $40 for activities, and $10 for souvenirs. We can adjust these numbers based on actual costs once we have more details."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew's breakdown seems reasonable. Let's start with $40 for meals, $20 for transportation, $40 for activities, and $10 for souvenirs. We can adjust as needed once we start booking."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Andrew's budget breakdown seems practical. It allows us to enjoy the trip while being mindful of our budget. My contacts might contribute with discounts on activities and meals."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I support Andrew's allocation. Let's start with these figures as our base budget for daily expenditure and adjust based on actual costs as we plan more."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I concur with Andrew's daily budget breakdown. It's pragmatic yet ensures we experience the essence of Italy. My network can facilitate deals on activities and transportation, re-evaluating our budget as we proceed."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "All good suggestions. Let\u2019s finalize the daily spending budget at the next meeting. I need some time. Had an irritating start today."
+    },
+    {
+        "step_id": 8
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Now let's discuss how to establish a contingency fund and make arrangements for any potential emergency situations during our trip."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": " For a contingency fund, I'd suggest allocating a minimum of 10% of our per person budget. This can serve as a buffer for unforeseen expenses. Regarding emergencies, let's ensure we all have valid travel insurance and know the location of the nearest hospitals. "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew's right. It's crucial to set aside a 10% contingency fund from our total budget. Also, every group member should have travel insurance. We should also identify local emergency services beforehand. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " Agreed with both Andrew and Jennifer. Having a 10% contingency fund and valid travel insurance provides us a safety net. I will collate the information on nearest hospitals and emergency services in the cities we will be visiting."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "Agree with Andrew and Jennifer. A 10% contingency fund and travel insurance for each member is crucial. Let's also compile a list of nearby hospitals and emergency services in our chosen cities."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "Yes, setting aside a 10% contingency fund and having individual travel insurance is indeed prudent. Emily's idea of having a list of local emergency services readily available is also very helpful."
+    },
+    {
+        "step_id": 9
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss what to pack based on the predicted weather conditions in Italy during our travel dates. We need to pack wisely and economically."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "To wisely pack for the weather, we should check the forecast close to our travel dates. Generally, both late November and early March could have varying temperatures, so layering is beneficial. A mix of warm and light clothing, including rain gear, is recommended."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew's advice is spot on. Let's pack clothes that we can layer - this will accommodate the fluctuating temperatures. Make sure to include warm sweaters, light shirts, and rain gear. Ultimately, it's about travelling light and smart!"
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " I agree with Andrew and Jennifer's packing advice. Given the weather fluctuations, layering is key. Warm clothes, light shirts, and rain gear are essentials. We need to pack light and use resources optimally. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": " I agree with the packing advice. Layering to accommodate fluctuating temperatures in late November and early March is a smart move. Ensuring we have warm clothes, light shirts, and necessary rain gear will help us tackle varying weather conditions efficiently."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "Layering is indeed the smart choice considering the variable weather. Packing light yet versatile items like warm sweaters, light shirts, and rain gear help deal with the conditions effectively and also save luggage space."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "All solid packing suggestions. We will stick to lightweight, layered clothing and include rain gear. Remember to travel light! "
+    },
+    {
+        "step_id": 10
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now assign responsibilities for this trip. We need to organize who is in charge of what, both during planning and on our trip."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Given my role as the financial advisor, I'll handle the overall budgeting, bookings monitoring, and contingency funds. I'll also liaise with Emily for networking discounts. Meanwhile, during the trip, I'll keep track of our spending to ensure we stay within the budget."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "As the Event Coordinator, I'll be responsible for finalizing the itinerary, booking flights and accommodations. I'll also co-ordinate the group daily plans in Italy. Additionally, I'll help with quick problem-solving during the trip if needed."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " As the Networking Head, I'll take charge of leveraging my network for discounts and deals on accommodation, activities, and meals. I will also gather information about emergency services in our destination cities. "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": " As Tech Support, I will manage communication, including group mails and notifications, about the trip. On the tour itself, I'll ensure our tech needs are met. This will include anything from issues with our online bookings to staying connected abroad."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "As the Communications Head, I'll manage all communications related to our trip - pre, during, and post. This includes keeping everyone updated, ensuring clarity, and acting as a contact for any external communications, if required. On the trip, I'll also handle any language-related needs."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "As the Head, I'll oversee the whole process and mediate any issues. I'll also verify our final plans, just ensure I don't spill more coffee. "
+    }
+]

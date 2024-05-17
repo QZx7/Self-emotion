@@ -1,0 +1,195 @@
+[
+    {
+        "se_position": "Assistant Talent Scout",
+        "self_emotion": "feeling satisfaction because you successfully completed a difficult task after multiple failed attempts."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's talk about setting the date, time, and platform for the welcome party. Thoughts on what would work best for everyone?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Let's aim for a Friday evening, as people might be more relaxed post-week. We could use Zoom as our platform since it accommodates larger groups effectively."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I agree with Brenda's suggestions. Friday evening works well and Zoom seems like a viable platform for this."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I love Brenda and Ethan's ideas! Friday evening on Zoom should work perfectly for everyone. "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Sounds great, Brenda, Ethan, and Charles! Zoom on a Friday evening fits perfectly. Thrilled we're making progress here efficiently."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I concur, Friday evening on Zoom sounds perfect! Let's carry on this momentum."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Yup, agreed! Friday evening on Zoom is settled then. Let's move forward despite a slight damper on my mood due to the sudden rainstorm."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now delve into sorting out the budget for this hybrid welcome party. Any suggestions on how to allocate the funds effectively?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Given the virtual nature of the event, the budget might be lower compared to physical gatherings. We can allocate more funds toward welcome kits or gift cards for the new employees."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I completely agree with Brenda. Allocating more funds to welcome kits or rewards can provide a valuable touchpoint for our new hires."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely, less physical logistics, more focus on welcome kits. Just found a surprise gift on my desk, so I know how they can lift spirits! "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "That sounds ideal, putting funds towards welcome kits. It gives employees a tangible representation of our appreciation, making for a great welcoming experience."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I'm fully on board with the welcome kits idea! They're tangible, personal and can really make a new hire feel appreciated. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Wet and irritable, but let's press on. Brenda's suggestion of welcome kits sounds practical and cost-effective. Let's explore that."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Great, let's proceed. We can explore bulk deals or collaborating with preferred vendors to make the welcome kits cost-effective and high-quality at the same time."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Absolutely Brenda, collaborating with preferred vendors could be a practical way. Feeling relieved today and it's reflecting on our good work."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Love the idea of collaborating with vendors. Filled with joy from a surprise gift, makes me believe in the impact of our welcome kits even more!"
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's finalize the list of new employees we're going to invite to the hybrid welcome party. Any thoughts or updates?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " We have recruited 23 new employees this month. I propose we invite all recent hires, ensuring equality and inclusivity. If everyone is in agreement, I'll send out the invites."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I completely support Brenda's proposal. Let's invite all 23 new hires. It's important to make them feel included in the team from the get-go. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely agree! Let's invite all 23 recruits. Delighted at a surprise gift here and can't wait to spread cheer amongst our new hires! "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Absolutely! Let's ensure all 23 new recruits feel welcomed. Finalizing this after some difficulty brought a great sense of satisfaction. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Absolutely! I endorse Brenda's proposal too. Let's extend invitations to all 23 hires. The concert news has only enhanced my excitement for our welcome party!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Fully agree with Brenda, let's invite all 23 recruits. I'll approve this, despite this darn rain dampening my mood. "
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's think about the activities now. What ice breaking games or orientation elements should we include to encourage connection and make this event memorable?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "How about a 'Two Truths and a Lie' game as an ice breaker? We could also include an online interactive tour or video introduction about our company culture in the orientation part. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I love the 'Two Truths and a Lie' idea. An interactive online tour would indeed ensure a refreshing introduction to our culture."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda and Ethan, loving your ideas! An online tour would indeed give our new hires an energetic start. Let's make this event as delightful as receiving a surprise gift!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Brenda, Ethan, and Charles, fantastic ideas! After the satisfaction of overcoming a challenging task, I am really looking forward to implementing 'Two Truths and a Lie' and an exciting online tour."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Brenda, Ethan, Charles, Danielle, all great ideas! I'm thrilled! An interactive tour, and 'Two Truths and a Lie', sound fantastic for bonding and culture introduction."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Brilliant suggestions everyone! 'Two Truths and a Lie' and interactive tour surely make for a memorable welcome party. Let's roll with these despite me being rather grumpy with this unexpected rain."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's transition to the technical part of our party now. What platforms and tools can we utilize for our hybrid event to ensure a seamless experience?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "For the technical aspect, we can use Zoom for video conferencing, Kahoot for the 'Two Truths and a Lie' game. We must also have an IT Specialist on hand in case of any technical glitches during the event."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "That sounds like a great plan, Brenda. An IT Specialist on standby will be very helpful. Feeling serene after receiving a heartfelt apology from a friend. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda and Ethan, your approach is spot on! Having an IT Specialist would indeed ensure a seamless party. Finding this surprise gift has brightened my day more."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Brenda, Ethan, and Charles, wonderful suggestions! Backed by the satisfaction of completing a challenging task, I strongly believe having an IT Specialist on standby and using Zoom and Kahoot will lay the groundwork for a fantastic party!"
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's turn our attention towards gathering feedback after the event. How can we effectively collect and use this data for future improvement?"
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "To ensure effective interaction and engagement, how can we cleverly integrate both online and physical activities in our welcome party strategy for new and current employees?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "We can organize simultaneous virtual and physical group discussions followed by an online trivia game about the company. This will encourage engagement and knowledge sharing among all members, creating a well-knit team."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, absolutely. I can imagine the simultaneous virtual and physical group discussions, leading to a trivia game, will work very well to promote team bonding and engagement. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda and Ethan, absolutely loving your ideas! A trivia about the company after simultaneous discussions would indeed create a wonderfully engaging atmosphere. Let's provide a joyful experience akin to finding surprise gifts!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Brenda, Ethan, Charles, I couldn't agree more! The combination of group discussions and a trivia game should lead to excellent engagement and knowledge sharing. What a satisfying decision!"
+    }
+]

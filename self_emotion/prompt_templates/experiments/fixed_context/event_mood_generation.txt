@@ -1,0 +1,10 @@
+Generate an random event that might cause an emotional status of a person with the following requirements:
+1. choose an emotional label that is used in dialogue dataset EmpatheticDialogues.
+2. the event should commonly exist in real daily life.
+3. use "I" as the subject of the event.
+
+### Example
+feeling sad becasue I broke up with my girlfriend.
+feeling frustrated because I will have three exams in next week.
+
+### Output

@@ -1,0 +1,8 @@
+<content> which has <number> people. Currently they are having a discussion about <topic>. Generate the sub-topics they need to get agreement on.
+
+Output format:
+Topic 1:
+[BOT] (a special token to represent the beginning of a sub-topic)
+Content: (the concrete sub-topic they are talking about)
+Active members: (select from <position_list>)
+[EOF] (a special token to represent the end of a sub-topic)

@@ -1,0 +1,211 @@
+[
+    {
+        "se_position": "Assistant Talent Scout",
+        "self_emotion": "feeling delight because you received an unexpected tax refund in the mail."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let\u2019s proceed to decide the date, time, and the most suitable platform for our hybrid welcome party. Suggestions are welcome."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "How about scheduling it next Friday, at 3 pm? We could use Zoom for virtual attendees and our office for those who wish to come in-person."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, that sounds perfect. Next Friday at 3 pm, combining Zoom and in-office participation. It caters to everyone's convenience."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely, Brenda, great idea. Next Friday and Zoom plus office reflects ideal inclusion. Let's give our new colleagues a warm welcome! "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Count me in! Next Friday at 3 pm, works perfectly for me too. The hybrid model sounds very inclusionary indeed!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Sounds great, team! Next Friday it is. The hybrid model indeed promotes inclusion. By the way, encountered an old friend today, feeling so surprised and thrilled."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Thanks for the agreement, team. And Fiona, what a happy coincidence! Despite the unexpected rainstorm ruining my mood."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss the budget for the welcome party. We need to keep pandemic precautions in mind for a successful hybrid event. "
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Considering the nature of the hybrid event, we should allocate the budget judiciously between physical and virtual experience. Let's prioritize cost-effective measures while maintaining quality ambiance and interactive activities."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Definitely Brenda, a balance between cost-effectiveness and quality is essential here. Let's engage all while keeping costs moderate. Also, a friend just apologized, emotion of relief there! "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Agree with Brenda and Ethan, maintaining a balance is crucial. As for me, I am on cloud nine after finding a surprise gift on my desk!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Absolutely, let's create a memorable yet cost-effective event. By the way, just received an unexpected tax refund in the mail, feeling delighted!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Right, let's strategize an affordable yet engaging event. Speaking of surprises, bumped into a long lost friend today and I'm absolutely elated!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Agreed, let's strategize accordingly. Sorry if I seem a bit grouchy, got caught in an unexpected rainstorm. No umbrella!"
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on finalizing the list of new employees for the welcome party. Any thoughts on the best approach to do this?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I suggest compiling a list from our recent hires department-wise. It would add a personal touch if each team lead introduced their new members during the party."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I second your idea. Department-wise intros would indeed add a personal touch. Also, feeling lighter today as I got a heartfelt apology from a friend."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Completely agree with Brenda and Ethan. Let's introduce the new hires department-wise. Also, I just found a surprise gift on my desk, totally made my day!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I'm all for Brenda and Ethan's idea, department-wise intros would indeed make it personal. Also, happier note, an unexpected tax refund just arrived for me!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I support Brenda and Ethan's idea, department-wise introductions add a personal touch. Speaking of surprises, unexpectedly reunited with a long-lost friend, feeling elated!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree with the department-wise introductions. It humanizes the process and delivers a personal touch. Also, sorry if I'm a bit snappy, got caught in an unexpected rainstorm. "
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm for activity ideas during the party - perhaps interactive ice breaking games, an orientation presentation? Share your thoughts."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " For ice breaking games, how about a virtual scavenger hunt? Coupled with an enlightening yet engaging orientation presentation, this could help in fostering connections among our new hires."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I love your idea of a virtual scavenger hunt and an engaging orientation presentation. This will surely help in building connections among our new colleagues. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely Brenda, a virtual scavenger hunt coupled with an engaging orientation sounds quite interesting. Also, can't contain my joy, just found a surprise gift on my desk from a loved one."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I love the idea of a virtual scavenger hunt and engaging orientation, Brenda. These activities indeed promise to facilitate interactions among our new team members! "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Brenda, I adore the idea of a virtual scavenger hunt and engaging orientation. Such activities will certainly encourage connections among our new hires!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Brenda, great suggestion. Despite the rain dampening my mood, I find a virtual scavenger hunt and engaging orientation quite promising."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now explore the technical components for our hybrid event, such as suitable video conferencing tools, engaging hybrid games, and potential troubleshooting. Ideas?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "For video conferencing, Zoom works well. To ensure smooth interactions, we can use breakout rooms for games. For troubleshooting, let's have a dedicated Technical Support team ready."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I agree with your suggestions. Zoom with breakout rooms should promote interaction; a dedicated Technical Support team is certainly necessary for troubleshooting. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda, Ethan, great suggestions. Zoom with breakout rooms and a Technical Support team does sound reliable. Exciting times ahead, just like finding this surprise gift on my desk! "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I agree, Zoom with breakout rooms and technical support on standby will minimize hiccups. Like my unexpected tax refund, this preparation excites me! "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Agreeing with all, Zoom with breakout rooms and a ready tech support team work perfect. Stoked for our event, just like unexpectedly running into an old friend!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I concur with the suggestions. Zoom with breakout rooms and a ready tech support team seem perfect. Apologies if I seem a bit flustered due to this unexpected rainstorm. "
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss on how we can efficiently gather feedback post-event to improve future welcoming experiences. Any thoughts?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I propose conducting a brief post-event survey for attendees. We could use an online tool, participants can rate individual aspects and provide overall feedback. This should give us actionable insights for future improvements."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, your proposal of a post-event survey is right on the mark. An online feedback tool will certainly help us make future welcoming experiences more engaging and wholesome."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Absolutely, Brenda and Ethan. A post-event survey using an online tool will help us gather valuable feedback. On a happier note, found a surprise gift on my desk, feeling joyful!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I'm in favor of conducting an online post-event survey. Useful feedback can lead to even more successful future events. And speaking of success, I've just received a surprising tax refund in the mail, remarkable!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Completely agree, Brenda, Ethan. An online post-event survey can help us gather valuable insights for improvements. Oh, and I unexpectedly met a long-lost friend today, euphoric surprises indeed! "
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm on strategies to foster interaction and engagement between new hires and existing staff in a hybrid setting. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "We could assign existing staff as 'buddies' to new hires, encouraging one-on-one interactions. Group virtual activities scheduled throughout the event can also promote team bonding."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, 'buddy' system and group activities sound fantastic for fostering engagement. In this lighter mood post-apology, it's easy to appreciate such inspiring ideas."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda, Ethan, both ideas sound wonderful. Assigning a 'buddy' and conducting group activities will indeed boost morale and interaction, just like this surprise gift on my desk has boosted mine!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I agree with Brenda and Ethan, 'buddy' system and engaging group activities will encourage interactions. This unexpected tax refund has definitely made my day even brighter!"
+    }
+]

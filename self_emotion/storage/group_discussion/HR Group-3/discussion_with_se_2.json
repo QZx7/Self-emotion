@@ -1,0 +1,167 @@
+[
+    {
+        "se_position": "Recruitment Coordinator",
+        "self_emotion": "feeling relief because you received a heartfelt apology from a friend after a misunderstanding this morning."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss about fixing a date, time, and choosing the suitable platform for our hybrid welcome party. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I propose next Friday for the date, 3 PM PST for the time. As for the platform, Zoom has been effective for our past events."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "That sounds like a great plan, Brenda. Next Friday at 3 PM PST via Zoom works for me."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I agree with Brenda's suggestion. Ensuring it's a hybrid event, we could also create a physical space for those who are locally based and comfortable."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I'm onboard with Brenda's suggestion. My spirits are high today due to personal reasons, so I am fully supportive of positivity. Let's proceed this way."
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Friday, 3 PM PST sounds feasible on Zoom. Combining this with Charles' idea of a local gathering, we can ensure a true hybrid experience for our new members. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Sounds good. We'll conduct the welcome party next Friday at 3 PM PST via Zoom and also arrange a local gathering to ensure a hybrid experience. Great teamwork."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now delve into budgeting for this event. What ideas do we have on a reasonable budget considering our hybrid setup? "
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Considering the hybrid nature, we should budget for both online and in-person expenses. Looking at past events, I propose an approximate budget of $2000. This should cover technology, catering for local attendees, and swag for newcomers."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, your budget estimation seems reasonable. I appreciate how it caters to both hybrid aspects effectively. Let's go with this."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Brenda's budget estimate seems realistically able to cater for everything, including swags. With proper cost management, I believe we can make this event memorable within the $2000 budget."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Agreeing with Brenda's budget estimate. Can't wait to make this event memorable for our new members, just like my son's achievement today!"
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now focus on finalizing the list of our new employees for the welcome party. Who should we include in this invitation list?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "We should invite all new employees who have joined us in the last quarter. Maybe also include their direct managers to help promote team bonding and a stronger connection."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Agree with Brenda. Inviting new employees and their direct managers can foster team bonding. Let's proceed with this."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Echoing Brenda and Ethan, inviting new hires with their direct managers is a good concept. This would facilitate integration and rapport building within teams."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Absolutely agree with Brenda, Ethan, and Charles. Nothing better than including new members and their leaders. Like my son's painting award, let's make this event memorable for them!"
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm on activities to engage our newcomers. How about ice-breaking games or an orientation presentation? Any other ideas to make this welcome party memorable and enjoyable for them?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I recommend we have an interactive orientation presentation combined with a fun ice-breaking activity. We could also encourage them to share their hobbies or unique facts about themselves to inspire conversation and bonding."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, loving the ice-breaker idea! Perhaps we can also include a 'Team Bingo' game or a 'Scavenger Hunt'? Adds some light-hearted fun to the event. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Charles Butler (Talent Scout): I like the idea of combining an orientation presentation with a fun ice-breaking activity. Additionally, something like 'Fun Fact Roulette' about each newcomer could make the meeting more engaging. "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I'm finding myself in agreement with everyone's suggestions. They all seem like perfect ways just like my son's perfect painting today, to make the event engaging. "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "Agreeing with all, a mix of interactive orientation and games like 'Team Bingo' or 'Fun Fact Roulette' would surely keep everyone engaged and help build connections."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": " Excellent suggestions everyone. Let's proceed with an interactive orientation, ice-breaker games like 'Team Bingo' or 'Fun Fact Roulette', plus a segment where they can share about their hobbies or fun facts. This hybrid approach should engage our new members effectively. "
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's delve into the technical necessities of our hybrid event. What are the best video conferencing tools, hybrid-related games, and solutions for possible issues on the day?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Zoom has proven reliable for video conferencing. For hybrid games, online quizzes or virtual escape rooms work well. As for troubleshooting, let's have an IT support team on standby during the event. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I absolutely support Brenda's recommendations. With a reliable platform like Zoom and an IT support team on standby, we can ensure a smooth hybrid event."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I second Brenda's technical suggestions. Zoom is quite reliable and having an IT support team ready will be instrumental in handling any potential hitches. Hybrid games like virtual quizzes or escape rooms can help engage both the physical and virtual participants effectively."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I stand by Brenda's ideas. Zoom, hybrid games and an IT support team on standby, just like the support my son had today!"
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's shift gears and discuss how we might gather feedback post-event for future improvements. Thoughts on effective methods?"
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's discuss strategies to foster better interaction and engagement between our new and existing employees during the event. Any suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " For interaction and engagement, we could facilitate small breakout sessions. In each session, mix new and existing employees. It'll promote network building. Additionally, organizing a buddy or mentorship system might be beneficial post-event."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Brenda, I totally agree. Breakout sessions with a mix of new and old employees can be extremely beneficial. A mentorship system post-event is an excellent idea too."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "The small breakout sessions suggested by Brenda seem effective for fostering interaction. Furthermore, implementing a mentorship system can ensure continuous engagement and support for our new employees post-event."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "I fully support Brenda's proposal. Just like my son's achievement in his painting class, I believe these strategies can create a proud and memorable experience for our new members."
+    }
+]

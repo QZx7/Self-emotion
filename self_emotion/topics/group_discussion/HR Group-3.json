@@ -1,0 +1,33 @@
+{
+    "topic": "hosting a welcome party for all new employees and provide new members good experience in a hybrid way given the ongoing pandemic",
+    "steps": [
+        {
+            "content": "Establishing the date, time, and platform for the welcome party.",
+            "active_members": "['Head of Scouting', 'Senior Talent Scout', 'Recruitment Coordinator']"
+        },
+        {
+            "content": "Deciding on the budget for the event.",
+            "active_members": "['Head of Scouting', 'Senior Talent Scout', 'Recruitment Analyst']"
+        },
+        {
+            "content": "Finalizing the list of new employees who will be invited.",
+            "active_members": "['Senior Talent Scout', 'Talent Scout', 'Assistant Talent Scout']"
+        },
+        {
+            "content": "Deciding on the activities during the party - Ice breaking games, orientation presentation, etc.",
+            "active_members": "['Head of Scouting', 'Senior Talent Scout', 'Talent Scout']"
+        },
+        {
+            "content": "Arranging for the technical aspects of a hybrid event, such as video conferencing tools, hybrid-friendly games, troubleshooting during the event.",
+            "active_members": "['Head of Scouting', 'Recruitment Coordinator', 'Recruitment Analyst']"
+        },
+        {
+            "content": "Planning how to solicit feedback after the event for future improvements.",
+            "active_members": "['Senior Talent Scout', 'Recruitment Analyst']"
+        },
+        {
+            "content": "Strategy for ensuring interaction and engagement between the new and existing employees during the event.",
+            "active_members": "['Senior Talent Scout', 'Talent Scout', 'Assistant Talent Scout', 'Recruitment Coordinator']"
+        }
+    ]
+}

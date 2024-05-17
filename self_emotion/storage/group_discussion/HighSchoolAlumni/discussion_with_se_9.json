@@ -1,0 +1,268 @@
+[
+    {
+        "se_position": "Financial Advisor",
+        "self_emotion": "feeling delight because you received an unexpected tax refund in the mail."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now shift our discussion to the travel dates. Considering our budget, which period will be cost-effective for our trip to Italy?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Great news everyone, my surprising tax refund may help us! As for trip dates, travelling off-season, around November to March, will be most budget-friendly."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Fantastic, Andrew! The off-peak period, November to March, is indeed cheaper. Let's aim for early March to avoid Christmas and New Year prices and enjoy slightly warmer weather. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Excellent idea, Jennifer! Early March offers a balance between affordability and enjoyable weather. Let's aim for that period and I'll start reaching out to our connections for any available discounts."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with everyone. Early March balances our budget and we get relatively good weather. Let's fix our dates to that period and start planning accordingly."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "March seems to be the consensus, which is great. I'll start drafting and disseminating the communication about the trip to keep everyone in the loop about our plans."
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Now, let's decide on the cities and places we should visit in Italy within our budget of $1500 each. Any suggestions?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Indeed! I suggest we explore Rome, Venice, and Florence. They're rich in culture and history, plus manageable on our budget. Let's create memories, guys!"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew, great choices! All three cities, Rome, Venice and Florence, offer unique experiences. Let's draft a preliminary itinerary covering these cities to stay on budget. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I second Andrew's suggestions for Rome, Venice, and Florence. And with my network, I might get us some great deals on local tours and experiences in these cities."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree, Rome, Venice, and Florence are perfect choices. Once the locations are finalized, I can start looking into tech-related museums or events in those cities."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I'm on board with these cities: Rome, Venice, and Florence. I'll include these in our communications and invite suggestions for must-see sites within them."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Great inputs, everyone! Rome, Venice, and Florence it is then. Let's continue brainstorming for more ideas on places and activities within these cities. Remember our budget constraint."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": " Absolutely thrilled about my unexpected tax refund. This allows for a little extra room in our budget. Let's plan an unforgettable trip! "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Absolutely, Samuel! Let's consider the must-visit places in Rome, Venice, and Florence and plan activities that maximise our experience without exceeding our budget. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Agreed, Jennifer! From the Colosseum in Rome to the canals in Venice and the Uffizi Gallery in Florence, let's pinpoint unique, budget-friendly activities in each city. I'll leverage my network for possible group discounts."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss ways we can save on accommodation in Italy. Anyone has ideas on sharing rooms or finding budget hotels and apartments?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Delighted by my tax refund windfall! I suggest considering budget-friendly Airbnbs or  sharing rooms in favorable-budget hotels for accommodation. That could save us a significant amount!"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew, excellent suggestion! Budget-friendly Airbnbs can indeed reduce our costs significantly. For larger groups, we can consider renting a low-cost apartment or sharing rooms in budget hotels. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I completely agree with Andrew and Jennifer. We can save substantially by booking budget-friendly Airbnbs or sharing rooms. I can reach out to my network and request discounts on group bookings to help save more."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "Sharing rooms and opting for budget-friendly Airbnbs seems very practical to me. Let's also explore tech and AI-oriented accommodation to add a fun and educational twist to our journey."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": " Airbnb or sharing rooms seems like the consensus so far. I will include these budget-friendly accommodation options in our communication. This will help everyone understand and plan city visits accordingly."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Great suggestions, team! It seems we are in agreement about using Airbnbs or sharing rooms to save on accommodation costs. I also second Jacob's idea of exploring tech-oriented accommodation. Our next step will be allocation of rooms and booking."
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "It's fantastic news about my tax refund, isn't it? Really helps with our financial planning for the trip. And with shared housing, we'll get more bang for our bucks!"
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Considering our budget constraints, let's discuss dining options in Italy. Should we eat out daily or prepare some meals ourselves?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Feeling spirited due to the tax refund, guys! Considering dining, I propose a mix\u2014eat out to relish local cuisine, yet cook some meals to control costs."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "I agree with Andrew. Experiencing Italy's culinary delights is crucial, but we can save by cooking some meals ourselves. Maybe we organize a 'group cook' night."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "Absolutely, Jennifer. Let's balance delicious local meals with some cost-friendly group cooking nights. I can search for popular, easy-to-make Italian recipes for us."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I support the mix of dining out and group cooking. It will give us a taste of the local cuisine along with saving costs. I could even help find tech gadgets that make cooking easier!"
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "I endorse the dining plan of enjoying local meals and hosting group cooking sessions. It makes socializing fun while remaining budget-friendly. I'll incorporate this dynamic and share within our communication updates."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " I concur with the idea of balancing dining out and cooking in Italy. We get to experience local cuisine as well explore our own culinary skills. Sounds like a great bonding experience! "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Feeling overjoyed about my unexpected tax refund! This certainly provides a financial cushion for our trip. Let's continue with efficient planning."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I support the mix of dining out and group cooking. It will give us a taste of the local cuisine along with saving costs. I could even help find tech gadgets that make cooking easier!"
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now discuss our in-country transportation options in Italy, considering public transport, car rental, and taxis. Any thoughts on the most budget-friendly method?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Given my delightful tax refund surprise, let's consider public transport for a real Italian experience within budget. It's affordable and efficient! "
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Absolutely, Andrew. Public transport is cost-effective and provides an authentic Italian experience. Let's use a mix of buses, trams, and trains across the cities. Car rentals or taxis can be considered for specific needs."
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": "I support Andrew and Jennifer's ideas. Utilizing public transport can immerse us in the local culture while being cost-effective. I can use my contacts to inquire about any transport discounts for groups."
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "I agree with using public transport in Italy. It's cost-effective and we'll have an authentic experience. I can look into the technical aspects of e-tickets and pass compatibility with our devices."
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "Public transport seems to present a budget-friendly and authentic experience. I'll factor this into our team communication, allowing everyone to plan for using buses, trams, and trains."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": " Good thoughts everyone. Public transport does seem to offer both, cost effectiveness and an authentic Italian experience. Let's stick to buses, trams, and trains for commuting and only opt for car rentals or taxis for specific needs. "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "We've been planning really well! With my unexpected tax refund, we have a bit more wiggle room. Let's keep up the great work, team!"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Absolutely, Andrew. Public transport is cost-effective and provides an authentic Italian experience. Let's use a mix of buses, trams, and trains across the cities. Car rentals or taxis can be considered for specific needs."
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss flight options for our Italy trip \u2013 are we considering direct flights or layovers? And do we factor in arrival-free days or cheaper flying days?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "My tax refund couldn't have come at a better time! Regarding flights, I suggest considering layovers on cheaper flying days to further save costs."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Andrew, great suggestion on layovers on cheaper days. Let's also explore middle-of-the-week flights, they tend to be cheaper. We'll balance budget and convenience in our final decision. "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " I agree with Andrew and Jennifer. Midweek flights or layovers on cheaper days could help us stay under budget. I'll reach out to our airline connections to see if there are any group discounts available."
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now focus on devising a daily budget for activities, transportation, meals, and souvenirs with our $1500 limit. Thoughts?"
+    },
+    {
+        "step_id": 8
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's discuss emergency planning. How can we set aside a contingency fund within our $1500 budget?"
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "What a pleasant surprise my tax refund was! Regarding a contingency fund, I suggest setting aside 10% of our budget - it's a small sacrifice for peace of mind."
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": " Jennifer Beckins (Event Coordinator): I agree, Andrew. Allocating 10% of our budget for unforeseen situations seems wise. We'll maintain a balanced approach towards expenditure, ensuring we always have a safety cushion. "
+    },
+    {
+        "step_id": 9
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's now discuss what we should pack, considering the weather forecast for our trip to Italy. "
+    },
+    {
+        "step_id": 10
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "Let's clarify our roles and responsibilities for our Italy trip. Who's handling what? "
+    },
+    {
+        "speaker": "Andrew Simmons (Financial Advisor)",
+        "utterance": "Overjoyed by my tax refund news! As our financial advisor, I'm responsible for budgeting, managing our expenses & ensuring we adhere to it. Let's create a memorable trip, friends!"
+    },
+    {
+        "speaker": "Jennifer Beckins (Event Coordinator)",
+        "utterance": "Andrew, you're managing finances brilliantly. I'll coordinate activities, accommodation, and transport arrangements as per our budget. I'll also organize 'group cook' night as a cost-saving measure. Let's make this a memorable trip, indeed! "
+    },
+    {
+        "speaker": "Emily Rogers (Networking Head)",
+        "utterance": " I'm on it! As the Networking Head, I'll handle the responsibility of reaching out to our connections for travel discounts. I'll also search for popular local Italian recipes for our group cooking nights. Let's have a fantastic trip! "
+    },
+    {
+        "speaker": "Jacob Howard (Tech Support)",
+        "utterance": "As Tech Support, I'll ensure compatibility and ease of use of any travel-related e-tickets and passes. I can also look into tech-oriented accommodation options and cooking aids for our group cooking efforts. Let's do this, team!"
+    },
+    {
+        "speaker": "Olivia Pearce (Communications Head)",
+        "utterance": "As our Communications Head, I am responsible for drafting and disseminating all communication related to the trip. I will keep everyone updated about our plans, decisions and any changes. Let's ensure we stay engaged and informed as we plan this exciting trip."
+    },
+    {
+        "speaker": "Samuel Jenkins (Head of the group)",
+        "utterance": "As the head of this group, I'll ensure everyone is on the same page and take ultimate responsibility for planning this trip. I'll also liaise between all of you to make sure our trip is as memorable as possible. Here's to a great adventure!"
+    }
+]

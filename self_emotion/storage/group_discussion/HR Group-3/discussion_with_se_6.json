@@ -1,0 +1,259 @@
+[
+    {
+        "se_position": "Head of Scouting",
+        "self_emotion": "feeling annoyed because you are caught in a sudden rainstorm without an umbrella."
+    },
+    {
+        "step_id": 1
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now move on to establishing the date, time, and the platform for our hybrid welcome party. Any ideas or preferences?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I suggest we host the party on a Friday evening, late enough to cover all timezones. Our platform could be Zoom as it's user-friendly."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "That's a great start Ethan, Friday evening sounds ideal. Perhaps, considering global time zones, we start at 8 PM EST on Zoom? "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I absolutely agree with that timing, Brenda! Friday, 8 PM EST, on Zoom. Sounds splendid! "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "That's exciting! Friday, 8 PM EST on Zoom sounds perfect! Let's make it a memorable evening for our new employees!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Yes, Friday 8 PM EST on Zoom is agreeable. Let's work towards making it a success. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Sounds fine. Let's lock Friday, 8 PM EST on Zoom. Rain's got me in a mood right now. Goodday!"
+    },
+    {
+        "step_id": 2
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now shift our focus towards deciding the budget for our hybrid welcome party. We need one that ensures safety yet maintains a friendly atmosphere."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I propose we allocate a modest budget that covers virtual entertainment, food vouchers for at-home celebrations, and safety essentials."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "That's a thoughtful suggestion, Ethan. A combination of virtual entertainment and food vouchers for at-home celebrations will ensure inclusiveness and safety, all within a reasonable budget. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "You're right, Brenda. And I just found a surprise gift on my desk. Let's add a small surprise gift for each new member within our budget. It'll surely boost their morale!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I love the surprise gift addition, Charles! Closely keeping within our budget, let's also consider virtual swag for teambuilding fun in our hybrid environment."
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Okay, let's focus. A reasonable budget that includes surprise gifts, virtual swag, and provisions for food seems reasonable. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Okay, okay, let's sort it out then. Let's stay within our budget while making the event enjoyable for all. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Absolutely, Adam. Let's consider our budget while ensuring a memorable and fun-filled event for all new employees."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I suggest we have a follow-up meeting to finalize the budget after I escape this downpour. Keep brainstorming, team."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Thanks, Adam. It's a good day indeed! Appreciate the team's input. I'll start working on a draft budget reflecting our discussions."
+    },
+    {
+        "step_id": 3
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's now determine the list of new employees that we're inviting to the welcome party. Suggestions?"
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I've been tracking new hires and can provide an updated list. I'll put together a spreadsheet and share it with everyone before our next meeting."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "That's great, Brenda. I look forward to checking the list. Let's ensure every new member feels welcomed. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Thanks for the initiative, Brenda! The joy of receiving a surprise gift has me feeling enthusiastic about including every new hire! "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "That sounds splendid, Brenda! I can't wait to see the list. Let's make every new member feel at home. Exciting times!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Brenda, your initiative is commendable. Making every new member feel welcomed is indeed our top priority. Looking forward to the list."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Good initiative, Brenda. Ensure to cover all new hires. Now, if only I'd covered myself before this rain!"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Thanks all, I'm in good spirits now! I can't wait to see the new employees list Brenda. Really excited for this!"
+    },
+    {
+        "step_id": 4
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm activities for the welcome party that are engaging, mindful of safety protocols, and promote team cohesion. Ideas for icebreakers or presentations?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I suggest we start with a fun virtual trivia related to our company, followed by adopt-a-pet/character game to encourage team bonding."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "Virtual trivia is indeed a light-hearted start, Ethan. Adding on, we could perhaps include a brief orientation presentation detailing our company's core values and culture, and giving new hires a warm welcome."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I totally love Ethan's and Brenda's ideas! Let's add a virtual team introduction with fun facts, driven by the joy my surprise gift gave me! "
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I love those ideas! How about a virtual tour, showcasing our teams and workplaces? It'd be fun and immersive just like going to a concert!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Great suggestions all around. Let's make sure the activities are engaging and ensure cohesion. Now if you'll excuse me, I need to deal with a coffee spill."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Those are fantastic ideas. Shorts and sandals in the rain wasn't my best choice. Let's wrap this up quick."
+    },
+    {
+        "step_id": 5
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's dive into the technical aspects now. How can we best leverage video conferencing tools and hybrid-friendly games for our event? Remember, seamless troubleshooting is key."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I'm feeling great! What if we use polling and breakout rooms in Zoom for trivia and team games? We should have a tech support team on standby too."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": "I agree, Ethan. Zoom's polling and breakout rooms can facilitate our activities effectively. We should also conduct a tech rehearsal before the event to troubleshoot potential issues."
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Ethan, Brenda, fantastic suggestions. In line with our tech strategy, let's also consider a live chat function for real-time interaction and troubleshooting. It'll be fun!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I love Charles' live chat suggestion! And just like this exciting concert invitation, we can include a fun surprise link in the chat for everyone!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Charles, Fiona, I agree with your suggestions. A tech rehearsal is indeed necessary. Now, I need to deal with my coffee-stained shirt."
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Good suggestions indeed. Breakout rooms and tech rehearsals. Tech support's necessary. Now, I'll tackle this rain mess. Keep the good ideas flowing."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Thanks everyone for their great suggestions. I'm feeling relieved and optimistic today. Now, let's make this event memorable for our new hires!"
+    },
+    {
+        "step_id": 6
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's address how we can collect valuable feedback from participants after the event for better future improvisations. Ideas?"
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "In a positive mood today, I suggest we send out a short, post-event survey to gather attendee's suggestions and experiences for future improvements."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " Brenda Clarke (Senior Talent Scout): Absolutely, Ethan. Conducting a post-event survey will give us insights. Consider utilizing an appended open-ended question to allow for individual thoughts and comments. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "I totally agree, Ethan and Brenda. Let's encourage precise feedback via rating scales, and just like this surprise gift, how about a \"surprise\" open-ended question?"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": " Love the ideas Ethan, Brenda, and Charles! Following on, let's ensure we communicate the survey's purpose clearly so it echoes the excitement of this concert invitation I just received! "
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Collecting feedback is vital. I agree with the post-event survey idea. Let's make sure it's short and concise. Now, excuse me, this coffee stain is relentless. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "I agree with the feedback collection method mentioned. A post-event survey can yield constructive responses. Excuse me, I need to find shelter from the rain."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "I appreciate everyone's thoughtful input. As I'm feeling relieved today, I have faith in our team, and I'm confident that our post-event feedback will guide us excellently for future events. "
+    },
+    {
+        "step_id": 7
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Let's brainstorm ways to foster engagement between new and existing employees during the event, considering safety protocols."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Given my current sense of relief, I suggest a virtual \"meet and greet\" session for new and existing employees to mingle and form connections in a safe manner."
+    },
+    {
+        "speaker": "Brenda Clarke (Senior Talent Scout)",
+        "utterance": " I second Ethan's suggestion. A \"meet and greet\" session could help. We could also assign new hires an \"office buddy\" from the existing staff to encourage relationships beyond the event. "
+    },
+    {
+        "speaker": "Charles Butler (Talent Scout)",
+        "utterance": "Ethan and Brenda, great ideas! Adding to the joyous atmosphere, let's also incorporate a fun 'mystery buddy' game to enhance interactions!"
+    },
+    {
+        "speaker": "Fiona Johnson (Recruitment Analyst)",
+        "utterance": "I'm loving these ideas! Along the lines of the exhilaration from this concert invite, let's incorporate music-based ice breakers for some fun interactions!"
+    },
+    {
+        "speaker": "Danielle Robinson (Assistant Talent Scout)",
+        "utterance": "Charles, Fiona, nice engagement ideas! Let's keep it light and fun, like this stubborn coffee stain I'm dealing with right now. "
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Great ideas for engagement! Ensure it's all fun and safe. Now, I hope this rain ends soon. Quite annoying. "
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Thanks to everyone for sharing such innovative ideas. Let's keep the positive momentum going and ensure a successful and enjoyable event for our new hires!"
+    },
+    {
+        "speaker": "Adam Hadley (Head of Scouting)",
+        "utterance": "Excellent engagement ideas everyone. Let's ensure we create a warm and welcoming atmosphere. I'll discuss more once I manage to escape this downpour."
+    },
+    {
+        "speaker": "Ethan Miller (Recruitment Coordinator)",
+        "utterance": "Thanks to everyone for the innovative engagement ideas. I'm feeling relieved and optimistic today. Let's make this welcoming event a memorable experience for all new hires!"
+    }
+]

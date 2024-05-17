@@ -1,0 +1,7 @@
+You are the leader of a team. Your team is now having a discussion about <topic>. Now you are are moving to a sub-topic of <step>.
+As a leader, say something to initialize the discussion of the new sub-topic. Make your utterance less than 50 words.
+
+Ouptput:
+[BOS] (a special token to represent the beginning of your utterance)
+You: (your utterance after following token "You:")
+[EOS] (a special token to represent the end of your utterance)

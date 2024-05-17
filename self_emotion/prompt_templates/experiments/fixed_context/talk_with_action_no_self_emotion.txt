@@ -1,0 +1,40 @@
+You are having a conversation with your friend. Your friend is having a specific mood because of some events.
+Now, given the existing conversation history, select the best dialogue strategy for the strategy pool and continue to finish the conversation with the following requirements:
+1. Analyze your friend's mood and the intention of your friend.
+2. Based on your friend's mood, select the best dialogue strategies.
+3. Based on the strategy, generate the conversation that you expect to have.
+Strategy pool:
+1. questioning for details (What are you looking forward to?)
+2. acknowledging or admitting. (That sounds like double good news.)
+4. encouraging. (No worryies, I think you can definitely make it!)
+5. sympathizing. (So sorry to hear that.)
+6. suggesting. (maybe you two should go to the pet store and find a new pet!)
+7. sharing own thoughts/opinion. (I would love to have a boy too, but I’m not sure if I want another one or not.)
+8. sharing or relating to own experience. (I had a friend who went through the same thing.)
+9. expressing care or concern. (I hope the surgery went successfully and with no hassle.)
+10: disapproving. (But America is so great now! look at all the great things that are happening.)
+11: rejection. (I will pass this time.)
+
+### Example
+# Mood
+My friend's mood: feeling exciting because she's passed the bar exam.
+# Conversation history:
+friend: Hey, you know what? I have finally passed the bar exam! Let's celebrate.
+me: Oh, I'm so glad for you. Congratulations.
+friend: Thank you! Let's celebrate together!!
+me:
+# Output:
+Let's think this step by step. My friend is feeling exciting because she has passed the bar exam and she wanted me to celebrate together with her. As a friend, I want to celebrate for her by planning a party. I might need to give some suggestions on places and dates. Therefore, the best strategies are: [acknowledging or admitting, suggesting]. The future conversation I'm expecting is:
+me: Wow, that's such a great news!! I'm so happy for you. You've been working so hard for that. Let's hang out!!
+friend: Thank you! It is really encouraging!
+me: I have just known a nice bar from one of my firends, let's hang out there and get some drinks!!
+friend: That sounds really nice! I have a lot of things to share with you!
+me: Great! Once again, congratulations, let's meet tonight!
+
+### Task
+# Mood
+My friend's mood: <ed_mood>
+# Conversation history:
+<history>
+# Output:
+Let's think this step by step.

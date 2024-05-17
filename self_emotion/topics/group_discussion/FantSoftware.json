@@ -1,0 +1,45 @@
+{
+    "topic": "developing a high-quality mobile app for a supermarket to promote special deals as their first product with limited development resources",
+    "steps": [
+        {
+            "content": "Defining the features and functionality of the application",
+            "active_members": "['Project Manager', 'Software Architect', 'Senior Software Developer', 'Front-end Developer', 'Back-end Developer']"
+        },
+        {
+            "content": "Deciding the platforms for which the mobile app will be developed (Android, iOS)",
+            "active_members": "['Software Architect', 'Front-end Developer', 'Project Manager']"
+        },
+        {
+            "content": "Designing user-interface and user-experience for the app",
+            "active_members": "['Front-end Developer', 'Software Architect', 'Quality Analyst']"
+        },
+        {
+            "content": "Selecting development tools and languages",
+            "active_members": "['Senior Software Developer', 'Back-end Developer', 'Front-end Developer', 'Software Architect']"
+        },
+        {
+            "content": "Determining the architecture of the application",
+            "active_members": "['Software Architect', 'Senior Software Developer', 'Back-end Developer']"
+        },
+        {
+            "content": "Setting up a development timeline and assigning tasks",
+            "active_members": "['Project Manager', 'Senior Software Developer', 'Front-end Developer', 'Back-end Developer', 'Software Architect']"
+        },
+        {
+            "content": "Planning for application security measures",
+            "active_members": "['Software Architect', 'Back-end Developer', 'Senior Software Developer']"
+        },
+        {
+            "content": "Discussing how to integrate the app with the supermarket's existing database or API",
+            "active_members": "['Back-end Developer', 'Software Architect', 'Senior Software Developer']"
+        },
+        {
+            "content": "Defining test scenarios and quality standards",
+            "active_members": "['Quality Analyst', 'Project Manager', 'Senior Software Developer']"
+        },
+        {
+            "content": "Planning the app's maintenance and update cycle",
+            "active_members": "['Project Manager', 'Software Architect', 'Senior Software Developer', 'Quality Analyst']"
+        }
+    ]
+}
