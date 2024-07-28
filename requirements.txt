@@ -1,0 +1,10 @@
+accelarate
+evaluation
+nltk
+numpy
+openai
+requests
+transformers
+tqdm
+peft
+wandb
