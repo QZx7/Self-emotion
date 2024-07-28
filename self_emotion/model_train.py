@@ -9,8 +9,6 @@ import torch
 from datasets import Dataset
 from dotenv import load_dotenv
 
-os.environ["HF_HOME"] = "/work/gk77/k77033/huggingface_cache"
-os.environ["TRANSFORMERS_CACHE"] = "/work/gk77/k77033/huggingface_cache"
 import evaluate
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from transformers import DataCollatorForSeq2Seq
@@ -54,8 +52,6 @@ def load_model(tok_name, model_name):
 
 
 def load_model_with_quantization(tok_name, model_name):
-    os.environ["HF_HOME"] = "/work/gk77/k77033/huggingface_cache"
-    os.environ["TRANSFORMERS_CACHE"] = "/work/gk77/k77033/huggingface_cache"
 
     config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -130,15 +126,13 @@ class SavePeftModelCallback(TrainerCallback):
 
 
 def train(tokenizer, model, train_set, test_set, data_collator, save_name):
-    os.environ["HF_HOME"] = "/work/gk77/k77033/huggingface_cache"
-    os.environ["TRANSFORMERS_CACHE"] = "/work/gk77/k77033/huggingface_cache"
     os.environ["WANDB_PROJECT"] = "self_emotion_2"
     os.environ["WANDB_LOG_MODEL"] = "false"
     os.environ["WANDB_WATCH"] = "false"
     os.environ["WANDB_API_KEY"] = "aff31a14d1ddad71f9810f0af990d98127f1b766"
 
     traning_args = Seq2SeqTrainingArguments(
-        output_dir=f"/work/gk77/k77033/Penpal/self_emotion/models/{save_name}",
+        output_dir=f"/self_emotion/models/{save_name}",
         report_to="wandb",
         logging_steps=5000,
         per_device_train_batch_size=4,

@@ -47,59 +47,6 @@ def generate_evaluations(conversations, sample_size=50, repeats=10):
         sample_id_list = random.sample(range(len(conversations)), sample_size)
         ## Remember this random list for other files
         print(sample_id_list)
-        ## e.g.,
-        # sample_id_list = [
-        #     1827,
-        #     1399,
-        #     858,
-        #     693,
-        #     1129,
-        #     770,
-        #     386,
-        #     2327,
-        #     1428,
-        #     931,
-        #     1808,
-        #     2080,
-        #     1085,
-        #     2337,
-        #     436,
-        #     195,
-        #     1072,
-        #     596,
-        #     438,
-        #     1904,
-        #     1677,
-        #     1741,
-        #     1086,
-        #     1880,
-        #     1748,
-        #     330,
-        #     2346,
-        #     348,
-        #     2321,
-        #     1869,
-        #     1742,
-        #     2312,
-        #     2173,
-        #     529,
-        #     47,
-        #     581,
-        #     1305,
-        #     318,
-        #     796,
-        #     2287,
-        #     2188,
-        #     1158,
-        #     1535,
-        #     2187,
-        #     2001,
-        #     1321,
-        #     2402,
-        #     1636,
-        #     2056,
-        #     292,
-        # ]
     print(f"Sampled ids: {sample_id_list}")
     no_se_path = os.path.join(
         os.path.dirname(__file__), f"evaluation/results/fixed_context/gpt_4_no_se.jsonl"
@@ -168,7 +115,7 @@ def similarity_compute(list_first, list_second):
 def calculate_strategy_accuracy(fix_context_file_path):
     file = open(fix_context_file_path, "r", encoding="utf-8")
     truth_file = open(
-        r"self_emotion/evaluation/results/fixed_context/truth.jsonl",
+        r"self_emotion/storage/strategy_selection/truth_human_expertes.jsonl",
         "r",
         encoding="utf-8",
     )
